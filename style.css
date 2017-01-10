@@ -1,0 +1,20 @@
+body {
+	background-color: #FFF;
+	text-align: center;
+	font-family: AmaticSC-Regular;
+    font-size: 20px;
+}
+@font-face {
+	font-family: AmaticSC-Regular;
+	src: url('./AmaticSC-Regular.ttf') format('truetype');
+}
+#content > h1 {
+    font-size: 40px; "Kiki P Ceramics"; Arial, Helvetica, Geneva;
+}
+#header {
+	color: #000;
+	text-align: center;
+    font-size: 40px!important;
+}    
+#content > h2 {
+		}
