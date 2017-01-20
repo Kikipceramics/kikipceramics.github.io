@@ -9,7 +9,7 @@ body {
 	src: url('./AmaticSC-Regular.ttf') format('truetype');
 }
 #content > h1 {
-    font-size: 40px; "Kiki P Ceramics"; Arial, Helvetica, Geneva;
+    font-size: 40px; "Kristy Palleson"; Arial, Helvetica, Geneva;
 }
 #header {
 	color: #000;
@@ -18,3 +18,27 @@ body {
 }    
 #content > h2 {
 		}
+
+ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #FFF;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    display: inline-block;
+    color: Black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #F9E1E1;
+}
